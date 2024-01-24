@@ -25,7 +25,7 @@ public:
     std::string soundInUse;
     // <-------------------------------- Add sounds here!
     if (sliderValue == 1) {
-        soundInUse = "osu-hit.ogg"_spr;
+        soundInUse = "keypress.opus"_spr;
     } else if (sliderValue == 2) {
         soundInUse = "vine-boom.ogg"_spr;
     } else if (sliderValue == 3) {
