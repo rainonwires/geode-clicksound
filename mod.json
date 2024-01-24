@@ -1,9 +1,9 @@
 {
 	"geode": "2.0.0",
 	"version": "v1.0.4",
-	"id": "beat.click-sound",
-	"name": "Click sound",
-	"developer": "Beat",
+	"id": "beat.click-sound.rain",
+	"name": "Click sound (rain moment)",
+	"developer": "Beat & Tweaked by rain, not for server upload",
 	"gd": {
 		"android": "2.205",
         "win": "2.204",
