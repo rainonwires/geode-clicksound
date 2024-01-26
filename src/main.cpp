@@ -29,7 +29,7 @@ public:
     } else if (sliderValue == 2) {
         soundInUse = "vine-boom.ogg"_spr;
     } else if (sliderValue == 3) {
-        soundInUse = "bwomp.ogg"_spr;
+        soundInUse = "keypress_10dblouder.ogg"_spr;
     } else if (sliderValue == 4) {
         soundInUse = "fire-in-the-hole.ogg"_spr;
     } else if (sliderValue == 5) {
