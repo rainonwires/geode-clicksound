@@ -18,7 +18,7 @@
 	"settings": {
 		"clicksound-currentsound": {
 			"name": "Current click sound",
-			"description": "Change the click sound. 1 = Default, 2 = Boom, 3 = Bwomp, 4 = Fire In The Hole, 5 = I love GD Cologne, 6 = Metronome, 7 = Click one, 8 = Metal Pipe, 9 = TikTok.",
+			"description": "Change the click sound. 1 = Normal Volume Keycap, 2 = Boom, 3 = 10DB louder keycap, 4 = Fire In The Hole, 5 = I love GD Cologne, 6 = Metronome, 7 = Click one, 8 = Metal Pipe, 9 = TikTok.",
 			"type": "int",
 			"default": 1,
 			"min": 1,
